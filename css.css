@@ -1,0 +1,38 @@
+.product{
+    display: inline-block;
+    flex-direction: row;
+    border-radius: solid rgb(255, 192, 91);
+    background-color: rgb(255, 216, 132);
+    width: 15%;
+    height: 40%;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(255, 192, 91);
+    font-size: larger;
+}
+
+.product-description{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.product-button{
+    text-align: center;
+    background-color: rgb(255, 192, 91);
+}
+#prod{
+    text-align: center;
+}
+.product-image{
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
